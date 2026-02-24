@@ -18,7 +18,7 @@ def info():
     return {
         "app": "Cloud API - FastAPI",
         "version": "1.0.0",
-        "author": "Tu Nombre"
+        "author": "Sebastián Proaño"
     }
 
 @app.post("/users")
