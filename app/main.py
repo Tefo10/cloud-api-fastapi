@@ -13,6 +13,14 @@ class UserCreate(BaseModel):
 def health():
     return {"status": "ok"}
 
+@app.get("/info")
+def info():
+    return {
+        "app": "Cloud API - FastAPI",
+        "version": "1.0.0",
+        "author": "Tu Nombre"
+    }
+
 @app.post("/users")
 def create_user(user: UserCreate):
     # Respuesta JSON (FastAPI lo hace automático)
