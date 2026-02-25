@@ -124,7 +124,7 @@ application/json" -d '{"name":"M","age":27,"email":"no-es-email"}'
 
 ### API funcionando localmente
 
-![Local](evidencia/CAPTURA%20CURL-01.png)
+![Local](evidencia/CAPTURA-CURL-01.png)
 
 ### Construcción de imagen Docker
 
@@ -144,15 +144,15 @@ application/json" -d '{"name":"M","age":27,"email":"no-es-email"}'
 
 ### Curl GET
 
-![Curl GET](evidencia/CAPTURA%20CURL-01.png)
+![Curl GET](evidencia/CAPTURA-CURL-01.png)
 
 ### Curl POST
 
-![Curl POST](evidencia/CAPTURA%20CURL-02.png)
+![Curl POST](evidencia/CAPTURA-CURL-02.png)
 
 ### Curl Error
 
-![Curl Error](evidencia/CAPTURA%20CURL-03.png)
+![Curl Error](evidencia/CAPTURA-CURL-03.png)
 
 ------------------------------------------------------------------------
 
