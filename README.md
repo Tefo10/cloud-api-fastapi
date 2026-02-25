@@ -132,27 +132,27 @@ application/json" -d '{"name":"M","age":27,"email":"no-es-email"}'
 
 ### Imagen creada
 
-![Docker Images](evidencia/docker-images.png)
+![Docker Images](app/evidencia/docker-images.png)
 
 ### Contenedor ejecutándose
 
-![Docker Run](evidencia/CAPTURA-DOCKER-04.png)
+![Docker Run](app/evidencia/CAPTURA-DOCKER-04.png)
 
 ### Docker ps
 
-![Docker PS](evidencia/CAPTURA-DOCKER-03.png)
+![Docker PS](app/evidencia/CAPTURA-DOCKER-03.png)
 
 ### Curl GET
 
-![Curl GET](evidencia/CAPTURA-CURL-01.png)
+![Curl GET](app/evidencia/CAPTURA-CURL-01.png)
 
 ### Curl POST
 
-![Curl POST](evidencia/CAPTURA-CURL-02.png)
+![Curl POST](app/evidencia/CAPTURA-CURL-02.png)
 
 ### Curl Error
 
-![Curl Error](evidencia/CAPTURA-CURL-03.png)
+![Curl Error](app/evidencia/CAPTURA-CURL-03.png)
 
 ------------------------------------------------------------------------
 
