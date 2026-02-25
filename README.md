@@ -124,11 +124,11 @@ application/json" -d '{"name":"M","age":27,"email":"no-es-email"}'
 
 ### API funcionando localmente
 
-![Local](evidencia/CAPTURA-CURL-01.png)
+![Local](app/evidencia/CAPTURA-CURL-01.png)
 
 ### Construcción de imagen Docker
 
-![Docker Build](evidencia/docker-build-1.png)
+![Docker Build](app/evidencia/docker-build-1.png)
 
 ### Imagen creada
 
